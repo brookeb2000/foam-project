@@ -1,3 +1,6 @@
 # AutoGluon model artifacts
 notebooks/AutogluonModels/
 Foam Project Notes.txt
+/.agents/
+/GP.pdf
+/skills-lock.json
